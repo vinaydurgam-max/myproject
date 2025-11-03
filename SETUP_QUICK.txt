@@ -1,0 +1,4 @@
+1) Create python venv
+2) pip install -r backend/requirements.txt
+3) python backend/app.py
+4) npm install && npm run dev
